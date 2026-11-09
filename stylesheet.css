@@ -1,0 +1,14 @@
+/**
+ * SPDX-FileCopyrightText: 2026 skjnldsv <skjnldsv@protonmail.com>
+ * SPDX-License-Identifier: AGPL-3.0-or-later
+ */
+
+/* colors come from the theme's .popup-menu-content; a pill sized for the top bar */
+.workspace-name-osd {
+    padding: 4px 16px;
+    margin: 0;
+    border-radius: 999px;
+    box-shadow: none;
+    font-weight: bold;
+    text-align: center;
+}

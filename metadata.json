@@ -1,0 +1,8 @@
+{
+    "uuid": "workspace-name-osd@skjnldsv.github.io",
+    "name": "Workspace Name OSD",
+    "description": "Briefly shows the name of the workspace you switch to in the middle of the top bar.",
+    "shell-version": ["50", "51"],
+    "url": "https://github.com/skjnldsv/workspace-name-osd",
+    "version": 1
+}
